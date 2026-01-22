@@ -29,9 +29,6 @@ No file system changes
 
 Recognized as test file by several AV engines
 
-Screenshot:
-https://screenshots/virustotal_screenshot.png
-
 Note: For real malware, you would see behaviors like registry changes, network connections, file drops, etc.
 
 🌐 4. How Malware Spreads
